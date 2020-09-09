@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political representation | The Procedural Legitimacy Project</title>
+    <link>/tags/political-representation/</link>
+      <atom:link href="/tags/political-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Political representation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Political representation</title>
+      <link>/tags/political-representation/</link>
+    </image>
+    
+    <item>
+      <title>The Legitimacy of Representation. How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions.</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Procedural Legitimacy Project</title>
+    <link>/authors/dominikd/</link>
+      <atom:link href="/authors/dominikd/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Procedural Legitimacy Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>The Procedural Legitimacy Project</title>
+      <link>/authors/dominikd/</link>
+    </image>
+    
+    <item>
+      <title>Upward Representation Bias:  How Voters Sustain Political Inequality</title>
+      <link>/publication/arnesen-upward-representation/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-upward-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do citizens make inferences from political candidate characteristics when aiming for substantive representation?</title>
+      <link>/publication/arnesen2019jels/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2019jels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/dominikd/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dominikd/</guid>
+      <description>&lt;p&gt;I study voting behavior and political competition in representative democracies with a special focus on how social identity relationships influence citizens&amp;rsquo; choices. My work lies at the intersection of Political Economy, Political Behavior, Experimental Methods, and Political Psychology.
+In my research I build on strategic and behavioral theories of voting and implement experiments to analyze how individuals evaluate their politicians&amp;rsquo; performance, when they discriminate in favor of their social group, how they make redistributive allocation decisions, or how they coordinate their choices with their peers when forming electoral coalitions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

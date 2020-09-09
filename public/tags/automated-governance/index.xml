@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automated governance | The Procedural Legitimacy Project</title>
+    <link>/tags/automated-governance/</link>
+      <atom:link href="/tags/automated-governance/index.xml" rel="self" type="application/rss+xml" />
+    <description>automated governance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>automated governance</title>
+      <link>/tags/automated-governance/</link>
+    </image>
+    
+    <item>
+      <title>When the Computer Says No: Investigating the Legitimacy of Automated Political Decisions.</title>
+      <link>/publication/arnesen-computersaysno/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-computersaysno/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

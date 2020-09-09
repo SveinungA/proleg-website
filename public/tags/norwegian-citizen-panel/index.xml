@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>norwegian citizen panel | The Procedural Legitimacy Project</title>
+    <link>/tags/norwegian-citizen-panel/</link>
+      <atom:link href="/tags/norwegian-citizen-panel/index.xml" rel="self" type="application/rss+xml" />
+    <description>norwegian citizen panel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>norwegian citizen panel</title>
+      <link>/tags/norwegian-citizen-panel/</link>
+    </image>
+    
+    <item>
+      <title>Procedural Congruence and the Delegate-Trustee Dilemma</title>
+      <link>/publication/arnesen-procedural-congruence/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-procedural-congruence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

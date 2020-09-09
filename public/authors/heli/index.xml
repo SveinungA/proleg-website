@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Procedural Legitimacy Project</title>
+    <link>/authors/heli/</link>
+      <atom:link href="/authors/heli/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Procedural Legitimacy Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>The Procedural Legitimacy Project</title>
+      <link>/authors/heli/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/heli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/heli/</guid>
+      <description>&lt;p&gt;My research interests are judicial behavior, judicial dissent, and public opinion of courts and judges. I focus mainly on the case of the Supreme Court of Norway, but have also researched the Danish Supreme Court. My work mainly consist of quantitative and survey experimental analyses. My most recent publication is &amp;ldquo;Dissent, Legitimacy, and Public Support for Court Decisions: Evidence from a Survey‐Based Experiment&amp;rdquo;, Law &amp;amp; Society Review, 53(2): 588-610.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications and work in progress | The Procedural Legitimacy Project</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications and work in progress</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications and work in progress</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Wiggle Room of Majority Rule</title>
+      <link>/publication/arnesen-eips-wiggle/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-eips-wiggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of good loser messages – A de-biasing experiment</title>
+      <link>/publication/esaiasson/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/esaiasson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When the Computer Says No: Investigating the Legitimacy of Automated Political Decisions.</title>
+      <link>/publication/arnesen-computersaysno/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-computersaysno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Supply-side Determinants of Populism: A Conjoint Experiment in France, Germany, the Netherlands, Norway, Iceland, and Sweden</title>
+      <link>/publication/arnesen-populist-conjoint/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-populist-conjoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upward Representation Bias:  How Voters Sustain Political Inequality</title>
+      <link>/publication/arnesen-upward-representation/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-upward-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedural Congruence and the Delegate-Trustee Dilemma</title>
+      <link>/publication/arnesen-procedural-congruence/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen-procedural-congruence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It Pays to Be Nice: The Benefits of Cooperating in Markets</title>
+      <link>/publication/serdarevic2019pay/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/serdarevic2019pay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Påvirker det å bli informert om konsekvenser av endringer i stortingvalgordningen velgernes holdninger til den? En surveyeksperimentell tilnærming.</title>
+      <link>/publication/arnesen2019nst/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2019nst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do citizens make inferences from political candidate characteristics when aiming for substantive representation?</title>
+      <link>/publication/arnesen2019jels/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2019jels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional legitimacy: How turnout, majority size, and outcome affect perceptions of legitimacy in European Union membership referendums.</title>
+      <link>/publication/arnesen2019eup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2019eup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual choice of partner and communication in a repeated prisoner&#39;s dilemma</title>
+      <link>/publication/tj%C3%B8tta2018jbbe/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tj%C3%B8tta2018jbbe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsiveness, support, and responsibility: How democratic responsiveness facilitates responsible government.</title>
+      <link>/publication/linde2918pp/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/linde2918pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socialization or Experience? Institutional Trust and Satisfaction with Democracy among Emigrants in Different Institutional Settings</title>
+      <link>/publication/dahlberg2018jop/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dahlberg2018jop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Legitimacy of Representation. How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions.</title>
+      <link>/publication/arnesen2018cps/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2018cps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legitimacy from Decision-Making Influence and Outcome Favourability: Results from General Population Survey Experiments</title>
+      <link>/publication/arnesen2017ps/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2017ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

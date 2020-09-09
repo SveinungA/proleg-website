@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researcher | The Procedural Legitimacy Project</title>
+    <link>/authors/researcher/</link>
+      <atom:link href="/authors/researcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researcher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) is serves as the project&#39;s main data generating infrastructure.</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Researcher</title>
+      <link>/authors/researcher/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/stefand/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/stefand/</guid>
+      <description>&lt;p&gt;Dahlberg&amp;rsquo;s research focuses on representative democracy, democratic legitimacy, political parties and voting behavior. He is currently working on two research projects. The first project is related to democratic legitimacy in a country comparative perspective while the second project deals with gender differences in voting support for xenophobic parties.
+Dahlberg teaches quantitative methods at Ph.D. and Masters level at the International Administration and Global Governance program, University of Gothenburg and Quantitative Methods - Multivariate Analysis at the Faculty of Social Sciences, Lund University&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

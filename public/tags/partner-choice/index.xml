@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>partner choice | The Procedural Legitimacy Project</title>
+    <link>/tags/partner-choice/</link>
+      <atom:link href="/tags/partner-choice/index.xml" rel="self" type="application/rss+xml" />
+    <description>partner choice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>partner choice</title>
+      <link>/tags/partner-choice/</link>
+    </image>
+    
+    <item>
+      <title>Mutual choice of partner and communication in a repeated prisoner&#39;s dilemma</title>
+      <link>/publication/tj%C3%B8tta2018jbbe/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tj%C3%B8tta2018jbbe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

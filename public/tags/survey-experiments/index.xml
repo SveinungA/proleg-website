@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey experiments | The Procedural Legitimacy Project</title>
+    <link>/tags/survey-experiments/</link>
+      <atom:link href="/tags/survey-experiments/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survey experiments</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Survey experiments</title>
+      <link>/tags/survey-experiments/</link>
+    </image>
+    
+    <item>
+      <title>The Legitimacy of Representation. How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions.</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

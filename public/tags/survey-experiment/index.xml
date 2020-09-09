@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey experiment | The Procedural Legitimacy Project</title>
+    <link>/tags/survey-experiment/</link>
+      <atom:link href="/tags/survey-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <description>survey experiment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Fri, 13 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>survey experiment</title>
+      <link>/tags/survey-experiment/</link>
+    </image>
+    
+    <item>
+      <title>Legitimacy from Decision-Making Influence and Outcome Favourability: Results from General Population Survey Experiments</title>
+      <link>/publication/arnesen2017ps/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2017ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

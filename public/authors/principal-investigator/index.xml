@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal Investigator | The Procedural Legitimacy Project</title>
+    <link>/authors/principal-investigator/</link>
+      <atom:link href="/authors/principal-investigator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal Investigator</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) is serves as the project&#39;s main data generating infrastructure.</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Principal Investigator</title>
+      <link>/authors/principal-investigator/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a political scientist who takes an interest in political behavior, public opinion, and elections, with a main methodological focus on experimental studies. Currently I lead the projects &lt;em&gt;Can Fair Decision Making Procedures Increase The Legitimacy of Democracies?&lt;/em&gt;, and &lt;em&gt;Democratic innovation in practice&lt;/em&gt;. Together with Yvette Peters, I coordinate the research group on Political Behavior and Democracy at the Digital Social Science Core Facilities &amp;ndash; &lt;a href=&#34;http://digsscore.uib.no&#34; target=&#34;_blank&#34;&gt;DIGSSCORE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>democratic theory | The Procedural Legitimacy Project</title>
+    <link>/tags/democratic-theory/</link>
+      <atom:link href="/tags/democratic-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>democratic theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019. This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) serves as the project&#39;s main data generating infrastructure.</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>democratic theory</title>
+      <link>/tags/democratic-theory/</link>
+    </image>
+    
+    <item>
+      <title>The Legitimacy of Representation. How Descriptive, Formal, and Responsiveness Representation Affect the Acceptability of Political Decisions.</title>
+      <link>/publication/arnesen2018cps/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/arnesen2018cps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

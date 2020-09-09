@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Procedural Legitimacy Project</title>
+    <link>/authors/dagac/</link>
+      <atom:link href="/authors/dagac/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Procedural Legitimacy Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019 This is a [NORCE](https://norceresearch.no) project funded by the [Research Council of Norway](https://www.forskningsradet.no/) (project no. 262986). [DIGSSCORE](https://www.uib.no/en/digsscore) is serves as the project&#39;s main data generating infrastructure.</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>The Procedural Legitimacy Project</title>
+      <link>/authors/dagac/</link>
+    </image>
+    
+  </channel>
+</rss>
